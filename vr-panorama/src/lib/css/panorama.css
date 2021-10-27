@@ -1,0 +1,48 @@
+#3d {
+    position: relative;
+}
+
+#choice {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.carousel {
+    position: relative;
+    top: 48vh;
+}
+
+.el-button--danger {
+    font-size: 25px !important;
+    background: rgba(0, 0, 0, 0.5) !important;
+    border-width: 0 !important;
+    width: 50px !important;
+    height: 50px !important;
+}
+
+.menu {
+    position: relative;
+    left: 40%;
+    top: 95vh;
+}
+
+.active {
+    background: #3a8ee6 !important;
+    border-color: #3a8ee6 !important;
+    color: #FFF !important;
+    outline: 0 !important;
+}
+
+.tips {
+    color: rgb(0, 255, 255);
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    left: 5px;
+    top: 5px;
+    font-size: 18px;
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+}
